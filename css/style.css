@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Helvetica', sans-serif;
+    position: absolute;
+    z-index: 500;
+    color: navy;
+    top: -15px;
+    left: 80px;
+    display: inline-block;
+    float: left;
+}
+h4{
+    font-family: 'Helvetica', sans-serif;
+    position: absolute;
+    z-index: 500;
+    color: navy;
+    top: 20px;
+    left: 80px;
+    display: inline-block;
+    float: left;
+}
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
