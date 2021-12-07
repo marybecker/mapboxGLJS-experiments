@@ -10,3 +10,18 @@ body {
     width: 100%;
     z-index: 100;
 }
+
+h1{
+    font-family: 'Helvetica', sans-serif;
+    position: absolute;
+    z-index: 500;
+    color: navy;
+    top: -15px;
+    left: 80px;
+    display: inline-block;
+    float: left;
+}
+
+#comparison-container{
+    z-index: 200;
+}
