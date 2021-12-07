@@ -8,9 +8,10 @@ body {
     top: 0;
     bottom: 0;
     width: 100%;
-    z-index: 100;
+    /*z-index: 100;*/
 }
 
+/*
 h1{
     font-family: 'Helvetica', sans-serif;
     position: absolute;
@@ -25,3 +26,4 @@ h1{
 #comparison-container{
     z-index: 200;
 }
+*/
